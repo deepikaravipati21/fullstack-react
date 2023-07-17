@@ -55,4 +55,4 @@ npm start
 - This should automatically open react, it may take a while to load...
 
 ## Credits
-Thanks for the refresher course by EdRoh, reference: https://www.youtube.com/watch?v=0cPCMIuDk2I
+Thanks for the refresher course by EdRoh, reference: https://www.youtube.com/watch?v=wYpCWwD1oz0
